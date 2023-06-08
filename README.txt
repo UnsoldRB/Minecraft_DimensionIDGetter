@@ -1,2 +1,4 @@
-‘¼‚Ìmod‚ÌConfig‚ğİ’è‚·‚é‚Æ‚«‚Æ‚©‚É•Ö—˜‚È‹C‚ª‚·‚émod‚Å‚·B
-´Í
+ä»–ã®modã®Configã‚’è¨­å®šã™ã‚‹ã¨ãã¨ã‹ã«ä¾¿åˆ©ãªæ°—ãŒã™ã‚‹modã§ã™ã€‚
+ï½´ï¾
+
+https://legacy.curseforge.com/minecraft/mc-mods/dimention-id-getter
