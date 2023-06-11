@@ -43,7 +43,7 @@ public class Main {
         StringBuilder dim_indention = new StringBuilder(); //改行で区切られたDimensionIDを組み立てる。
         final String INDENTION = System.getProperty("line.separator"); //改行コード
 
-        for (int i : dimensionIDs) { //全てのDimensionIDをSetに格納していく。
+        for (int i : dimensionIDs) { //後で結合するためのStringを組み立てる。
             dim_id = String.valueOf(i);
 
             dim_comma.append(dim_id).append(", ");
