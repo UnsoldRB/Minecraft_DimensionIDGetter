@@ -49,7 +49,7 @@ public class Main {
             dim_comma.append(dim_id).append(", ");
             dim_indention.append(dim_id).append(INDENTION);
         }
-        //それぞれ最後のコンマと改行コードを取り除いて結合し、{}を取り除く。
+        //それぞれ最後のコンマと改行コードを取り除いて結合する。
         final String RESULT_COMMA = dim_comma.substring(0, dim_comma.length() - 2);
         final String RESULT_INDENTION = dim_indention.substring(0, dim_indention.length() - 2);
         String result = RESULT_COMMA + INDENTION + INDENTION + RESULT_INDENTION;
